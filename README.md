@@ -163,7 +163,6 @@ Username: `grader`
 3. Make the `project.py` file name to `__init__.py`  
 4. Install pip 
 	
-	
 		$ sudo apt-get -qqy install python3 python3-pip
 		$ sudo pip3 install --upgrade pip
 		
